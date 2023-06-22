@@ -209,7 +209,7 @@ li {
 /* Section 4 */
 
 .section-4 {
-    background-image: url(asset/video.png);
+    background-image: url(video.png);
     height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
